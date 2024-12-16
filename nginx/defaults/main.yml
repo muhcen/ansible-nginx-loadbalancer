@@ -1,0 +1,3 @@
+nginx_web_server_content: |
+  <h1>Welcome to WebServer type {{ ansible_hostname }} with IP {{ ansible_host }}</h1>
+
